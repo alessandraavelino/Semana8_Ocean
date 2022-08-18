@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route Link, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 import './App.css';
 import Manatee from '../Manatee/Manatee';
 import Narwhal from '../Narwhal/Narwhal';
